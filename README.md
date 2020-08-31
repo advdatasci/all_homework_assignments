@@ -1,2 +1,9 @@
-# all_homework_assignments
-A repo with links to all homework assignments
+# All Homework Assignments for Adv Data Sci 2020
+
+A repo with links to all homework assignments.
+
+## Homework 1
+
+* __Template Repo__: https://github.com/advdatasci/homework1 
+* __Repo Name__: https://github.com/advdatasci/homework1-ind-your_github_user_name
+* __Pull Date__: 2020/09/07 9:00AM Baltimore Time 
