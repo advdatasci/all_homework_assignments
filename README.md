@@ -7,3 +7,9 @@ A repo with links to all homework assignments.
 * __Template Repo__: https://github.com/advdatasci/homework1 
 * __Repo Name__: https://github.com/advdatasci/homework1-ind-your_github_user_name
 * __Pull Date__: 2020/09/07 9:00AM Baltimore Time 
+
+## Homework 2
+
+* __Template Repo__: https://github.com/advdatasci/homework2
+* __Repo Name__: https://github.com/advdatasci/homework2-ind-your_github_user_name
+* __Pull Date__: 2020/09/14 9:00AM Baltimore Time 
