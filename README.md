@@ -45,3 +45,11 @@ A repo with links to all homework assignments.
 * __Repo Name__: https://github.com/advdatasci/homework7-ind-your_github_user_name
 * __Pull Date__: 2020/10/19 9:00AM Baltimore Time 
 
+
+## Homework 8
+
+* __Template Repo__: https://github.com/advdatasci/homework8
+* __Repo Name__: https://github.com/advdatasci/homework8-ind-your_github_user_name
+* __Pull Date__: 2020/10/26 9:00AM Baltimore Time 
+
+
