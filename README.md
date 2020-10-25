@@ -53,7 +53,7 @@ A repo with links to all homework assignments.
 * __Pull Date__: 2020/10/26 9:00AM Baltimore Time 
 
 
-## Homework 8
+## Homework 9
 
 * __Template Repo__: https://github.com/advdatasci/homework9
 * __Repo Name__: https://github.com/advdatasci/homework9-ind-your_github_user_name
